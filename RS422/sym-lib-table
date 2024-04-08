@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name USB-UART_RS422-rescue)(type Legacy)(uri ${KIPRJMOD}/USB-UART_RS422-rescue.lib)(options "")(descr ""))
+)
